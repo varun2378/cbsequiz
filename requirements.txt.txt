@@ -1,0 +1,12 @@
+streamlit>=1.38
+python-dotenv>=1.0
+pandas>=2.2
+pydantic>=2.8
+jsonschema>=4.22
+openai>=1.40
+requests>=2.31
+# Add any others you actually import:
+# pdfplumber
+# pymupdf
+# python-dateutil
+# tiktoken
