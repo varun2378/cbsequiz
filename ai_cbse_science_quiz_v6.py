@@ -12,6 +12,22 @@
 # "Show prompt sent to AI" flag is enabled (sidebar).
 
 import os
+# Optional: tolerate missing dotenv (but still list it in requirements)
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except Exception:
+    pass
+
+def get_secret(name: str, default: str | None = None):
+    # Prefer Streamlit Secrets on cloud
+    try:
+        if name in st.secrets:
+            return st.secrets[name]
+    except Exception:
+        pass
+    # Fallback to .env / environment for local runs
+    return os.getenv(name, default)
 import json
 import time
 import random
@@ -31,7 +47,8 @@ import pandas as pd
 # --------------------------- CONFIG ---------------------------
 
 APP_ROOT = os.path.dirname(__file__)
-SUBJECTS_DIR = r"C:\CBSEQuestionsGenerated_V2"  # scans for *.txt here
+#SUBJECTS_DIR = r"C:\CBSEQuestionsGenerated_V2"  # scans for *.txt here
+SUBJECTS_DIR = os.path.join(APP_ROOT, "topics") # scans for *.txt here
 CACHE_DIR = os.path.join(APP_ROOT, "quiz_cache_v2")
 SCORES_FILE = os.path.join(CACHE_DIR, "scores.json")
 CACHE_TTL_SECONDS = 7 * 24 * 60 * 60  # 1 week
@@ -506,6 +523,8 @@ def _generate_with_openai(
     custom_prompt: Optional[str] = None
 ) -> Dict[str, Any]:
     load_dotenv()
+    OPENAI_API_KEY = get_secret("OPENAI_API_KEY")
+
     api_key = os.getenv("OPENAI_API_KEY")
     if not api_key:
         st.stop()

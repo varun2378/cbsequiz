@@ -1,0 +1,698 @@
+{
+  "topic": "Science Topics | Key Concepts | What is Biodiversity? | Why Do We Group Living Things? | Plant Classification | Based on Height and Stem Type | Trees | Shrubs | Herbs | Special Types | Based on Leaf Venation (Vein Patterns) | Reticulate Venation | Parallel Venation | Based on Root Types | Taproot System | Fibrous Root System | Based on Seeds | Dicotyledons (Dicots) | Monocotyledons (Monocots) | Animal Classification | Based on Movement | Based on Habitat | Terrestrial Animals | Aquatic Animals | Amphibians | Adaptations (Special Features for Survival) | Desert Adaptations | Cactus Plants | Hot Desert Camels | Cold Desert Camels | Mountain Adaptations | Deodar Trees | Rhododendrons | Ocean Adaptations | Fish | Important Terms | Famous Scientists | Janaki Ammal | Salim Ali | Conservation (Protecting Nature) | Why Protect Biodiversity? | Conservation Projects | What Can We Do?",
+  "questions": [
+    {
+      "type": "mcq",
+      "id": "1",
+      "prompt": "Biodiversity refers to the variety of living organisms in a specific area. Which of the following is a reason to protect biodiversity?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "It helps in maintaining ecological balance"
+        },
+        {
+          "text": "It reduces food production"
+        },
+        {
+          "text": "It limits species interactions"
+        },
+        {
+          "text": "It increases pollution levels"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "Protecting biodiversity helps maintain ecological balance by ensuring all species can thrive."
+    },
+    {
+      "type": "mcq",
+      "id": "2",
+      "prompt": "Grouping living things helps scientists to study them better. Which of the following is a reason for grouping organisms?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "To ignore their differences"
+        },
+        {
+          "text": "To understand their relationships"
+        },
+        {
+          "text": "To make them look similar"
+        },
+        {
+          "text": "To reduce their numbers"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Grouping organisms helps in understanding their relationships and characteristics."
+    },
+    {
+      "type": "mcq",
+      "id": "3",
+      "prompt": "Plants can be classified based on their height and stem type. Which of these is a characteristic of shrubs?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "They are tall and have a thick trunk"
+        },
+        {
+          "text": "They grow only in water"
+        },
+        {
+          "text": "They are short and have multiple stems"
+        },
+        {
+          "text": "They have no leaves"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Shrubs are short plants that have multiple stems close to the ground."
+    },
+    {
+      "type": "mcq",
+      "id": "4",
+      "prompt": "Herbs are a type of plant that are generally small. What is a common use of herbs?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "They are used for making furniture"
+        },
+        {
+          "text": "They are used to make clothes"
+        },
+        {
+          "text": "They are used for building houses"
+        },
+        {
+          "text": "They are used in cooking for flavor"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Herbs are commonly used in cooking to add flavor to food."
+    },
+    {
+      "type": "mcq",
+      "id": "5",
+      "prompt": "Which type of leaf venation has veins that form a net-like pattern?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Reticulate venation"
+        },
+        {
+          "text": "Parallel venation"
+        },
+        {
+          "text": "Fibrous venation"
+        },
+        {
+          "text": "Simple venation"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "Reticulate venation is characterized by a network of veins that look like a net."
+    },
+    {
+      "type": "mcq",
+      "id": "6",
+      "prompt": "What type of root system does a cactus typically have to survive in the desert?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "No root system"
+        },
+        {
+          "text": "Fibrous root system"
+        },
+        {
+          "text": "Both systems"
+        },
+        {
+          "text": "Taproot system"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Cacti usually have a fibrous root system that helps them absorb water quickly."
+    },
+    {
+      "type": "mcq",
+      "id": "7",
+      "prompt": "Which of the following is a characteristic of monocotyledons?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "They grow only in water"
+        },
+        {
+          "text": "They have a thick trunk"
+        },
+        {
+          "text": "They have parallel leaf venation"
+        },
+        {
+          "text": "They have two seed leaves"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Monocotyledons typically have parallel venation in their leaves."
+    },
+    {
+      "type": "mcq",
+      "id": "8",
+      "prompt": "Amphibians are unique because they can live both on land and in water. Which of the following is an example of an amphibian?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Fish"
+        },
+        {
+          "text": "Lizard"
+        },
+        {
+          "text": "Eagle"
+        },
+        {
+          "text": "Frog"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Frogs are amphibians that can live both in water and on land."
+    },
+    {
+      "type": "mcq",
+      "id": "9",
+      "prompt": "Desert adaptations in plants help them survive harsh conditions. Which of the following is a common adaptation of desert plants?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Thick, waxy skin to reduce water loss"
+        },
+        {
+          "text": "Deep roots that grow in water"
+        },
+        {
+          "text": "Bright flowers to attract insects"
+        },
+        {
+          "text": "Large leaves to catch more sunlight"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "Desert plants often have thick, waxy skin to minimize water loss."
+    },
+    {
+      "type": "mcq",
+      "id": "10",
+      "prompt": "Which scientist is known for his work in ornithology and bird conservation in India?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Albert Einstein"
+        },
+        {
+          "text": "Salim Ali"
+        },
+        {
+          "text": "Isaac Newton"
+        },
+        {
+          "text": "Janaki Ammal"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Salim Ali is known as the 'Birdman of India' for his contributions to ornithology."
+    },
+    {
+      "type": "mcq",
+      "id": "11",
+      "prompt": "Which of the following is a characteristic of terrestrial animals?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "They can fly"
+        },
+        {
+          "text": "They live in water"
+        },
+        {
+          "text": "They live on land"
+        },
+        {
+          "text": "They only eat plants"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Terrestrial animals are those that primarily live on land."
+    },
+    {
+      "type": "mcq",
+      "id": "12",
+      "prompt": "Which of the following adaptations helps camels survive in hot deserts?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "They have thick fur"
+        },
+        {
+          "text": "They can fly"
+        },
+        {
+          "text": "They have long legs for swimming"
+        },
+        {
+          "text": "They can store water in their bodies"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Camels can store water in their bodies, allowing them to survive in hot deserts."
+    },
+    {
+      "type": "mcq",
+      "id": "13",
+      "prompt": "Which type of animal is known for living both on land and in water?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Amphibians"
+        },
+        {
+          "text": "Birds"
+        },
+        {
+          "text": "Reptiles"
+        },
+        {
+          "text": "Mammals"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "Amphibians are known for their ability to live both on land and in water."
+    },
+    {
+      "type": "mcq",
+      "id": "14",
+      "prompt": "What is the main reason for protecting biodiversity?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "To reduce food sources"
+        },
+        {
+          "text": "To ensure ecosystem stability"
+        },
+        {
+          "text": "To increase pollution"
+        },
+        {
+          "text": "To limit species variety"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Protecting biodiversity is essential for maintaining ecosystem stability."
+    },
+    {
+      "type": "mcq",
+      "id": "15",
+      "prompt": "Which of the following adaptations helps fish survive in oceans?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "Wings for flying"
+        },
+        {
+          "text": "Long legs for running"
+        },
+        {
+          "text": "Gills for breathing underwater"
+        },
+        {
+          "text": "Thick fur for warmth"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Fish have gills that allow them to breathe underwater."
+    },
+    {
+      "type": "mcq",
+      "id": "16",
+      "prompt": "What is the primary function of roots in plants?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "To create leaves"
+        },
+        {
+          "text": "To generate seeds"
+        },
+        {
+          "text": "To produce flowers"
+        },
+        {
+          "text": "To absorb water and nutrients"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Roots primarily function to absorb water and nutrients from the soil."
+    },
+    {
+      "type": "mcq",
+      "id": "17",
+      "prompt": "Which of the following is a special feature of cold desert camels?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "They have thick fur to keep warm"
+        },
+        {
+          "text": "They can fly to warmer places"
+        },
+        {
+          "text": "They have short legs for running"
+        },
+        {
+          "text": "They can swim in icy waters"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "Cold desert camels have thick fur to protect them from cold temperatures."
+    },
+    {
+      "type": "mcq",
+      "id": "18",
+      "prompt": "Which of the following plants is known for its beautiful flowers and is found in mountainous regions?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "Cactus"
+        },
+        {
+          "text": "Deodar tree"
+        },
+        {
+          "text": "Palm tree"
+        },
+        {
+          "text": "Oak tree"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "The Deodar tree is known for its beauty and is commonly found in mountainous areas."
+    },
+    {
+      "type": "mcq",
+      "id": "19",
+      "prompt": "Which of the following is true about dicotyledons?",
+      "difficulty": "tough",
+      "choices": [
+        {
+          "text": "They do not produce flowers"
+        },
+        {
+          "text": "They have only one seed leaf"
+        },
+        {
+          "text": "They have two seed leaves"
+        },
+        {
+          "text": "They are all trees"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Dicotyledons are characterized by having two seed leaves."
+    },
+    {
+      "type": "match",
+      "id": "20",
+      "prompt": "Match the following plants with their characteristics.",
+      "difficulty": "simple",
+      "match_left": [
+        "Cactus",
+        "Fern",
+        "Rose",
+        "Mango"
+      ],
+      "match_right": [
+        "Has spines and stores water",
+        "Has feathery leaves",
+        "Produces beautiful flowers",
+        "Produces sweet fruit"
+      ],
+      "match_answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Each plant has unique characteristics that help identify them."
+    },
+    {
+      "type": "match",
+      "id": "21",
+      "prompt": "Match the following scientists with their contributions.",
+      "difficulty": "moderate",
+      "match_left": [
+        "Janaki Ammal",
+        "Salim Ali",
+        "Charles Darwin",
+        "Albert Einstein"
+      ],
+      "match_right": [
+        "Studied plant genetics",
+        "Known as the Birdman of India",
+        "Theory of evolution",
+        "Theory of relativity"
+      ],
+      "match_answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "These scientists made significant contributions to their respective fields."
+    },
+    {
+      "type": "match",
+      "id": "22",
+      "prompt": "Match the following types of animals with their habitats.",
+      "difficulty": "moderate",
+      "match_left": [
+        "Fish",
+        "Camel",
+        "Frog",
+        "Eagle"
+      ],
+      "match_right": [
+        "Lives in water",
+        "Lives in deserts",
+        "Lives both on land and in water",
+        "Lives in trees"
+      ],
+      "match_answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Different animals are adapted to live in specific habitats."
+    },
+    {
+      "type": "match",
+      "id": "23",
+      "prompt": "Match the following types of roots with their descriptions.",
+      "difficulty": "moderate",
+      "match_left": [
+        "Taproot",
+        "Fibrous root",
+        "Adventitious root",
+        "Storage root"
+      ],
+      "match_right": [
+        "Single main root",
+        "Many thin roots",
+        "Roots growing from stem",
+        "Stores food"
+      ],
+      "match_answer": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": "Roots can be classified based on their structure and function."
+    },
+    {
+      "type": "tf",
+      "id": "24",
+      "prompt": "All plants have the same type of root system.",
+      "difficulty": "simple",
+      "is_true": false,
+      "explanation": "Plants can have different types of root systems, such as taproot and fibrous."
+    },
+    {
+      "type": "tf",
+      "id": "25",
+      "prompt": "Desert adaptations in plants include having thick leaves.",
+      "difficulty": "simple",
+      "is_true": false,
+      "explanation": "Desert adaptations often include thick, waxy skin, not thick leaves."
+    },
+    {
+      "type": "tf",
+      "id": "26",
+      "prompt": "Amphibians can only live in water.",
+      "difficulty": "simple",
+      "is_true": false,
+      "explanation": "Amphibians can live both in water and on land."
+    },
+    {
+      "type": "tf",
+      "id": "27",
+      "prompt": "Salim Ali is known for his work in bird conservation.",
+      "difficulty": "simple",
+      "is_true": true,
+      "explanation": "Salim Ali is recognized for his contributions to ornithology and bird conservation."
+    },
+    {
+      "type": "tf",
+      "id": "28",
+      "prompt": "Cacti are known for their ability to store water.",
+      "difficulty": "simple",
+      "is_true": true,
+      "explanation": "Cacti have adaptations that allow them to store water in arid environments."
+    },
+    {
+      "type": "tf",
+      "id": "29",
+      "prompt": "All animals are classified based on their movement.",
+      "difficulty": "moderate",
+      "is_true": true,
+      "explanation": "Animals can be classified based on how they move, such as walking, swimming, or flying."
+    },
+    {
+      "type": "tf",
+      "id": "30",
+      "prompt": "Herbs are typically taller than shrubs.",
+      "difficulty": "moderate",
+      "is_true": false,
+      "explanation": "Herbs are usually shorter than shrubs."
+    },
+    {
+      "type": "short",
+      "id": "31",
+      "prompt": "What is biodiversity?",
+      "difficulty": "simple",
+      "expected_answers": [
+        "The variety of living organisms",
+        "Different species in an area",
+        "The range of life forms"
+      ],
+      "explanation": "Biodiversity refers to the variety of life in a particular habitat."
+    },
+    {
+      "type": "short",
+      "id": "32",
+      "prompt": "Name two adaptations of desert plants.",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "Thick, waxy skin",
+        "Deep roots",
+        "Spines instead of leaves"
+      ],
+      "explanation": "Desert plants have adaptations to conserve water and survive in harsh conditions."
+    },
+    {
+      "type": "short",
+      "id": "33",
+      "prompt": "What is the role of roots in plants?",
+      "difficulty": "simple",
+      "expected_answers": [
+        "To absorb water and nutrients",
+        "To anchor the plant",
+        "To store food"
+      ],
+      "explanation": "Roots play a crucial role in anchoring the plant and absorbing essential resources."
+    },
+    {
+      "type": "short",
+      "id": "34",
+      "prompt": "List two characteristics of amphibians.",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "They can live both on land and in water",
+        "They have moist skin",
+        "They lay eggs in water"
+      ],
+      "explanation": "Amphibians have unique features that allow them to thrive in both habitats."
+    },
+    {
+      "type": "short",
+      "id": "35",
+      "prompt": "Who is Janaki Ammal and what is she known for?",
+      "difficulty": "tough",
+      "expected_answers": [
+        "She was a botanist",
+        "Known for her work in plant genetics",
+        "Contributed to the study of plants"
+      ],
+      "explanation": "Janaki Ammal made significant contributions to botany and plant genetics."
+    },
+    {
+      "type": "short",
+      "id": "36",
+      "prompt": "What can we do to protect biodiversity?",
+      "difficulty": "tough",
+      "expected_answers": [
+        "Reduce pollution",
+        "Plant trees",
+        "Support conservation programs"
+      ],
+      "explanation": "Protecting biodiversity involves actions like reducing pollution and supporting conservation efforts."
+    },
+    {
+      "type": "short",
+      "id": "37",
+      "prompt": "Name two types of root systems in plants.",
+      "difficulty": "simple",
+      "expected_answers": [
+        "Taproot system",
+        "Fibrous root system"
+      ],
+      "explanation": "Plants can have different types of root systems, including taproot and fibrous."
+    },
+    {
+      "type": "short",
+      "id": "38",
+      "prompt": "What is the importance of conservation projects?",
+      "difficulty": "tough",
+      "expected_answers": [
+        "They help protect endangered species",
+        "They restore habitats",
+        "They promote sustainable practices"
+      ],
+      "explanation": "Conservation projects aim to protect biodiversity and restore natural habitats."
+    },
+    {
+      "type": "short",
+      "id": "39",
+      "prompt": "What are two examples of aquatic animals?",
+      "difficulty": "simple",
+      "expected_answers": [
+        "Fish",
+        "Whales",
+        "Dolphins"
+      ],
+      "explanation": "Aquatic animals are those that live in water, such as fish and whales."
+    },
+    {
+      "type": "short",
+      "id": "40",
+      "prompt": "What adaptations do mountain plants have?",
+      "difficulty": "tough",
+      "expected_answers": [
+        "Short stature to withstand wind",
+        "Thick leaves to conserve water",
+        "Deep roots for stability"
+      ],
+      "explanation": "Mountain plants have adaptations that help them survive in harsh, windy conditions."
+    }
+  ]
+}

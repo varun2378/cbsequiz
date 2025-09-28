@@ -1,0 +1,156 @@
+{
+  "topic": "Science Topics | Diversity in Living World",
+  "questions": [
+    {
+      "type": "mcq",
+      "id": "1",
+      "prompt": "What are the three main states of matter?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "Supports the concept described in the question"
+        },
+        {
+          "text": "Opposes the concept described in the question"
+        },
+        {
+          "text": "Unrelated to the concept described in the question"
+        },
+        {
+          "text": "Exaggerated statement about the concept described in the question"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "The three main states of matter are Solid, Liquid, and Gas."
+    },
+    {
+      "type": "tf",
+      "id": "3",
+      "prompt": "All animals are classified based on their habitat and movement.",
+      "difficulty": "moderate",
+      "is_true": true,
+      "explanation": "Animals can be classified based on where they live (habitat) and how they move."
+    },
+    {
+      "type": "mcq",
+      "id": "4",
+      "prompt": "Which of the following is a characteristic of dicotyledons?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "Their flowers typically have parts in multiples of three."
+        },
+        {
+          "text": "They have two cotyledons in their seeds."
+        },
+        {
+          "text": "They primarily have a fibrous root system."
+        },
+        {
+          "text": "They usually have parallel leaf venation."
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Dicotyledons, or dicots, have two seed leaves."
+    },
+    {
+      "type": "match",
+      "id": "5",
+      "prompt": "Match the types of plants with their descriptions.",
+      "difficulty": "moderate",
+      "match_left": [
+        "Trees",
+        "Shrubs",
+        "Herbs",
+        "Cactus"
+      ],
+      "match_right": [
+        "Plants with thick stems and branches",
+        "Short plants with soft stems",
+        "Plants that can store water",
+        "Medium-sized plants with woody stems"
+      ],
+      "match_answer": [
+        0,
+        3,
+        1,
+        2
+      ],
+      "explanation": "Trees are tall with thick stems, shrubs are medium-sized, herbs are short, and cacti store water."
+    },
+    {
+      "type": "tf",
+      "id": "7",
+      "prompt": "Rhododendrons are found in cold mountainous regions.",
+      "difficulty": "moderate",
+      "is_true": true,
+      "explanation": "Rhododendrons thrive in cold mountainous areas."
+    },
+    {
+      "type": "mcq",
+      "id": "8",
+      "prompt": "Which scientist is known for his work in ornithology?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "Charles Darwin"
+        },
+        {
+          "text": "Carl Linnaeus"
+        },
+        {
+          "text": "John James Audubon"
+        },
+        {
+          "text": "David Attenborough"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Salim Ali is known for his contributions to the study of birds, or ornithology."
+    },
+    {
+      "type": "tf",
+      "id": "10",
+      "prompt": "Fibrous root systems are typical of dicotyledons.",
+      "difficulty": "moderate",
+      "is_true": false,
+      "explanation": "Fibrous root systems are typical of monocotyledons, while dicotyledons usually have taproot systems."
+    },
+    {
+      "type": "short",
+      "id": "2",
+      "prompt": "What is biodiversity?",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "The variety of living things",
+        "Different species of plants and animals",
+        "The range of life forms in an area"
+      ],
+      "explanation": "Biodiversity refers to the variety of life in a particular habitat or ecosystem."
+    },
+    {
+      "type": "short",
+      "id": "6",
+      "prompt": "Name two adaptations of desert camels.",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "They can store water",
+        "They have thick fur",
+        "They can withstand high temperatures"
+      ],
+      "explanation": "Desert camels have adaptations like storing water and having thick fur to survive in hot climates."
+    },
+    {
+      "type": "short",
+      "id": "9",
+      "prompt": "Why is it important to protect biodiversity?",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "To maintain ecological balance",
+        "To ensure survival of species",
+        "To provide resources for humans"
+      ],
+      "explanation": "Protecting biodiversity is crucial for ecological balance and the survival of various species."
+    }
+  ]
+}

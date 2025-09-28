@@ -1,0 +1,3 @@
+Comprehensions= Generate 2 unseen comprehension and questions for primary 6 CBSE student
+Literature= Foreign Lands (Poem), The Magical Earth(Poem), A CatterPillar Called Matthew, The Banyan Tree, Pret in the House, The Duck, Attila
+Grammar= Articles, Kinds of Adjectives, Order and position of obectives, Adjectives of Comparison,Tenses, Question tags

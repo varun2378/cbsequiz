@@ -1,0 +1,675 @@
+{
+  "topic": "Science Topics | Key Concepts | Why Do We Need Standard Units? | Historical Measurement Systems | International System of Units (SI Units) | Complete Conversion Chart | Measuring Tools and Their Uses | Types of Measuring Instruments | Position and Motion | Reference Point Concept | Motion vs Rest | Types of Motion | Practice Activities from the Chapter | Activity 5.1: Measuring Objects | Activity 5.2: Motion vs Rest | Important Terms | Quick Reference - Unit Conversions",
+  "questions": [
+    {
+      "type": "mcq",
+      "id": "1",
+      "prompt": "Standard units are important because they help us communicate measurements clearly and accurately.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "They allow for better communication of measurements"
+        },
+        {
+          "text": "They are not necessary for everyday life"
+        },
+        {
+          "text": "They are only used in science classes"
+        },
+        {
+          "text": "They make measurements easier to remember"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "Standard units ensure everyone understands measurements in the same way."
+    },
+    {
+      "type": "mcq",
+      "id": "2",
+      "prompt": "The historical measurement system used body parts like feet and hands for measuring length.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Imperial system"
+        },
+        {
+          "text": "Body measurement system"
+        },
+        {
+          "text": "Metric system"
+        },
+        {
+          "text": "Decimal system"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "The body measurement system relied on human body parts for measurement."
+    },
+    {
+      "type": "mcq",
+      "id": "3",
+      "prompt": "The International System of Units (SI) is used worldwide for scientific measurements.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Only in America"
+        },
+        {
+          "text": "Only in Europe"
+        },
+        {
+          "text": "Worldwide in science"
+        },
+        {
+          "text": "Only in Asia"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "SI units are accepted globally for consistency in scientific measurements."
+    },
+    {
+      "type": "mcq",
+      "id": "4",
+      "prompt": "The meter is the standard unit for measuring length in the International System of Units.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Liter"
+        },
+        {
+          "text": "Second"
+        },
+        {
+          "text": "Kilogram"
+        },
+        {
+          "text": "Meter"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Meter is the fundamental unit for length in the SI system."
+    },
+    {
+      "type": "mcq",
+      "id": "5",
+      "prompt": "Which of the following is a tool used for measuring length accurately?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Ruler"
+        },
+        {
+          "text": "Compass"
+        },
+        {
+          "text": "Thermometer"
+        },
+        {
+          "text": "Scale"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "A ruler is specifically designed for measuring length."
+    },
+    {
+      "type": "mcq",
+      "id": "6",
+      "prompt": "Motion refers to the change in position of an object with respect to a reference point.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "An object getting bigger"
+        },
+        {
+          "text": "An object changing position"
+        },
+        {
+          "text": "An object staying still"
+        },
+        {
+          "text": "An object getting smaller"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Motion is defined by the change in position relative to a reference point."
+    },
+    {
+      "type": "mcq",
+      "id": "7",
+      "prompt": "When an object is at rest, it does not change its position with respect to a reference point.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "It is spinning"
+        },
+        {
+          "text": "It is flying"
+        },
+        {
+          "text": "It is stationary"
+        },
+        {
+          "text": "It is moving quickly"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "An object at rest remains in the same position relative to a reference point."
+    },
+    {
+      "type": "mcq",
+      "id": "8",
+      "prompt": "Which of the following describes a straight-line motion?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "A bird flying in the sky"
+        },
+        {
+          "text": "A car moving in a circle"
+        },
+        {
+          "text": "A ball rolling down a slope"
+        },
+        {
+          "text": "A train moving on a straight track"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Straight-line motion occurs when an object moves in a straight path."
+    },
+    {
+      "type": "mcq",
+      "id": "9",
+      "prompt": "In the activity of measuring objects, which tool would you most likely use?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "A ruler"
+        },
+        {
+          "text": "A balance scale"
+        },
+        {
+          "text": "A stopwatch"
+        },
+        {
+          "text": "A thermometer"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "A ruler is used to measure the length of objects."
+    },
+    {
+      "type": "mcq",
+      "id": "10",
+      "prompt": "The concept of a reference point is crucial in understanding motion and position.",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "It is a moving object"
+        },
+        {
+          "text": "It is a fixed point used for comparison"
+        },
+        {
+          "text": "It is a type of measurement"
+        },
+        {
+          "text": "It is not important in science"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "A reference point is used to determine the position of an object."
+    },
+    {
+      "type": "mcq",
+      "id": "11",
+      "prompt": "Which of the following is a tool used for measuring weight?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Compass"
+        },
+        {
+          "text": "Ruler"
+        },
+        {
+          "text": "Balance scale"
+        },
+        {
+          "text": "Thermometer"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "A balance scale is designed to measure the weight of objects."
+    },
+    {
+      "type": "mcq",
+      "id": "12",
+      "prompt": "The unit of time in the International System of Units is the second.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Exaggerated statement about the concept described in the question"
+        },
+        {
+          "text": "Unrelated to the concept described in the question"
+        },
+        {
+          "text": "Opposes the concept described in the question"
+        },
+        {
+          "text": "Supports the concept described in the question"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Second is the standard unit of time in the SI system."
+    },
+    {
+      "type": "mcq",
+      "id": "13",
+      "prompt": "An object in motion can be described as moving away from a reference point.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "It is changing position"
+        },
+        {
+          "text": "It is not moving"
+        },
+        {
+          "text": "It is at rest"
+        },
+        {
+          "text": "It is stationary"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "An object in motion changes its position relative to a reference point."
+    },
+    {
+      "type": "mcq",
+      "id": "14",
+      "prompt": "Which of the following is an example of circular motion?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "A ball rolling down a hill"
+        },
+        {
+          "text": "A bicycle moving in a circle"
+        },
+        {
+          "text": "A car driving on a straight road"
+        },
+        {
+          "text": "A child swinging on a swing"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Circular motion occurs when an object moves in a circular path."
+    },
+    {
+      "type": "mcq",
+      "id": "15",
+      "prompt": "The conversion of centimeters to meters requires dividing by which number?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "Opposes the concept described in the question"
+        },
+        {
+          "text": "Unrelated to the concept described in the question"
+        },
+        {
+          "text": "Supports the concept described in the question"
+        },
+        {
+          "text": "Exaggerated statement about the concept described in the question"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "To convert centimeters to meters, you divide by 100."
+    },
+    {
+      "type": "mcq",
+      "id": "16",
+      "prompt": "Which of the following best describes the term 'motion'?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "Being at rest"
+        },
+        {
+          "text": "Staying in one place"
+        },
+        {
+          "text": "Moving in circles"
+        },
+        {
+          "text": "Changing position over time"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Motion is defined as the change in position of an object over time."
+    },
+    {
+      "type": "mcq",
+      "id": "17",
+      "prompt": "In the historical measurement system, a foot was based on the length of which body part?",
+      "difficulty": "moderate",
+      "choices": [
+        {
+          "text": "The length of a foot"
+        },
+        {
+          "text": "The length of a finger"
+        },
+        {
+          "text": "The length of a forearm"
+        },
+        {
+          "text": "The length of a hand"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "The foot measurement was derived from the average size of a human foot."
+    },
+    {
+      "type": "mcq",
+      "id": "18",
+      "prompt": "Which measuring instrument is used to measure temperature?",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "Ruler"
+        },
+        {
+          "text": "Thermometer"
+        },
+        {
+          "text": "Protractor"
+        },
+        {
+          "text": "Scale"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "A thermometer is specifically designed to measure temperature."
+    },
+    {
+      "type": "mcq",
+      "id": "19",
+      "prompt": "The term 'rest' means that an object is not changing its position with respect to a reference point.",
+      "difficulty": "simple",
+      "choices": [
+        {
+          "text": "It is moving"
+        },
+        {
+          "text": "It is rotating"
+        },
+        {
+          "text": "It is stationary"
+        },
+        {
+          "text": "It is flying"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "An object at rest does not change its position relative to a reference point."
+    },
+    {
+      "type": "match",
+      "id": "1",
+      "prompt": "Match the measuring tool with its use.",
+      "difficulty": "simple",
+      "match_left": [
+        "Ruler",
+        "Thermometer",
+        "Scale",
+        "Stopwatch"
+      ],
+      "match_right": [
+        "Measures temperature",
+        "Measures time",
+        "Measures length",
+        "Measures weight"
+      ],
+      "match_answer": [
+        2,
+        0,
+        3,
+        1
+      ],
+      "explanation": "Each tool is designed for a specific type of measurement."
+    },
+    {
+      "type": "match",
+      "id": "2",
+      "prompt": "Match the type of motion with its description.",
+      "difficulty": "moderate",
+      "match_left": [
+        "Linear motion",
+        "Circular motion",
+        "Rotational motion"
+      ],
+      "match_right": [
+        "Moving in a circle",
+        "Moving in a straight line",
+        "Spinning around an axis"
+      ],
+      "match_answer": [
+        1,
+        0,
+        2
+      ],
+      "explanation": "Each type of motion has a distinct path or pattern."
+    },
+    {
+      "type": "match",
+      "id": "3",
+      "prompt": "Match the unit with its type.",
+      "difficulty": "moderate",
+      "match_left": [
+        "Kilogram",
+        "Meter",
+        "Second"
+      ],
+      "match_right": [
+        "Unit of mass",
+        "Unit of length",
+        "Unit of time"
+      ],
+      "match_answer": [
+        0,
+        1,
+        2
+      ],
+      "explanation": "Each unit corresponds to a specific physical quantity."
+    },
+    {
+      "type": "tf",
+      "id": "1",
+      "prompt": "All measuring tools are used for the same purpose.",
+      "difficulty": "simple",
+      "is_true": false,
+      "explanation": "Different measuring tools are designed for specific measurements."
+    },
+    {
+      "type": "tf",
+      "id": "2",
+      "prompt": "The metric system is a historical measurement system.",
+      "difficulty": "simple",
+      "is_true": false,
+      "explanation": "The metric system is a modern system, not historical."
+    },
+    {
+      "type": "tf",
+      "id": "3",
+      "prompt": "An object in motion can be at rest at the same time.",
+      "difficulty": "tough",
+      "is_true": false,
+      "explanation": "An object cannot be in motion and at rest simultaneously."
+    },
+    {
+      "type": "tf",
+      "id": "4",
+      "prompt": "The SI unit of length is the meter.",
+      "difficulty": "simple",
+      "is_true": true,
+      "explanation": "Meter is the standard unit of length in the SI system."
+    },
+    {
+      "type": "tf",
+      "id": "5",
+      "prompt": "Motion and rest are two opposite states of an object.",
+      "difficulty": "simple",
+      "is_true": true,
+      "explanation": "Motion and rest describe different states of an object's position."
+    },
+    {
+      "type": "tf",
+      "id": "6",
+      "prompt": "You can measure the weight of an object using a thermometer.",
+      "difficulty": "simple",
+      "is_true": false,
+      "explanation": "A thermometer measures temperature, not weight."
+    },
+    {
+      "type": "tf",
+      "id": "7",
+      "prompt": "A reference point is necessary to determine motion.",
+      "difficulty": "moderate",
+      "is_true": true,
+      "explanation": "A reference point helps in understanding the position and motion of objects."
+    },
+    {
+      "type": "tf",
+      "id": "8",
+      "prompt": "All types of motion are the same.",
+      "difficulty": "tough",
+      "is_true": false,
+      "explanation": "There are various types of motion, each with unique characteristics."
+    },
+    {
+      "type": "tf",
+      "id": "9",
+      "prompt": "Standard units make it easier to compare measurements.",
+      "difficulty": "simple",
+      "is_true": true,
+      "explanation": "Using standard units allows for clear comparisons between different measurements."
+    },
+    {
+      "type": "short",
+      "id": "1",
+      "prompt": "What is the importance of standard units in measurement?",
+      "difficulty": "simple",
+      "expected_answers": [
+        "They ensure clear communication",
+        "They help in accurate measurements",
+        "They allow for comparisons"
+      ],
+      "explanation": "Standard units are essential for clear and accurate communication of measurements."
+    },
+    {
+      "type": "short",
+      "id": "2",
+      "prompt": "Name two types of motion.",
+      "difficulty": "simple",
+      "expected_answers": [
+        "Linear motion",
+        "Circular motion",
+        "Rotational motion"
+      ],
+      "explanation": "There are various types of motion, including linear and circular."
+    },
+    {
+      "type": "short",
+      "id": "3",
+      "prompt": "Describe the concept of a reference point.",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "A fixed point for comparison",
+        "A point to measure position",
+        "A location to determine motion"
+      ],
+      "explanation": "A reference point is crucial for understanding the position and motion of objects."
+    },
+    {
+      "type": "short",
+      "id": "4",
+      "prompt": "What is the SI unit for measuring mass?",
+      "difficulty": "simple",
+      "expected_answers": [
+        "Kilogram"
+      ],
+      "explanation": "Kilogram is the standard unit for measuring mass in the SI system."
+    },
+    {
+      "type": "short",
+      "id": "5",
+      "prompt": "What is the difference between motion and rest?",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "Motion is changing position, rest is staying still",
+        "Motion involves movement, rest is stationary"
+      ],
+      "explanation": "Motion refers to changing position, while rest means not changing position."
+    },
+    {
+      "type": "short",
+      "id": "6",
+      "prompt": "Explain one way to measure length accurately.",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "Using a ruler",
+        "Using a measuring tape"
+      ],
+      "explanation": "Length can be measured accurately using tools like a ruler or measuring tape."
+    },
+    {
+      "type": "short",
+      "id": "7",
+      "prompt": "What is one example of circular motion?",
+      "difficulty": "simple",
+      "expected_answers": [
+        "A car turning around a corner",
+        "A planet orbiting the sun"
+      ],
+      "explanation": "Circular motion occurs when an object moves in a circular path."
+    },
+    {
+      "type": "short",
+      "id": "8",
+      "prompt": "List two measuring tools and their uses.",
+      "difficulty": "simple",
+      "expected_answers": [
+        "Ruler - measures length",
+        "Thermometer - measures temperature"
+      ],
+      "explanation": "Different tools are used for specific measurements."
+    },
+    {
+      "type": "short",
+      "id": "9",
+      "prompt": "What is the significance of using SI units in science?",
+      "difficulty": "moderate",
+      "expected_answers": [
+        "They provide a standard for measurements",
+        "They allow for consistency in scientific work"
+      ],
+      "explanation": "SI units ensure uniformity and clarity in scientific measurements."
+    },
+    {
+      "type": "short",
+      "id": "10",
+      "prompt": "What is one method to convert meters to centimeters?",
+      "difficulty": "simple",
+      "expected_answers": [
+        "Multiply by 100"
+      ],
+      "explanation": "To convert meters to centimeters, you multiply by 100."
+    }
+  ]
+}
